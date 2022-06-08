@@ -1,0 +1,6 @@
+{
+    "name": "com.soulmachines.helloworld",
+    "version": "1.0.0",
+    "displayName": "Hello World",
+    "description": "Prints Hello World."
+}
